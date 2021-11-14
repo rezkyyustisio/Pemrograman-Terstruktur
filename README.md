@@ -1,2 +1,2 @@
 # Pemrograman-Terstruktur
-Latihan mata kuliah pemrograman terstruktur. Dosen pengampu mata kuliah Ibu Syarifah Putri Agustini Alkadri.
+Latihan dan Tugas mata kuliah pemrograman terstruktur. Dosen pengampu mata kuliah Ibu Syarifah Putri Agustini Alkadri.
